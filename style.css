@@ -1,0 +1,35 @@
+.Tabledv {
+    width: 18px;height: 6px;
+}
+td{
+    border: solid 1px ;
+}
+tr{
+    border: solid 1px !important;
+}
+.editabletable{
+     border-collapse: collapse; 
+}
+.tabledx{
+    margin: 12px 12px !important;
+}
+.setdv{
+    padding: 0px 10px;
+}
+
+tr { cursor: default; }
+.highlight { background: #aeaeae; }
+tr.borderoff {
+    border: 0 !important;
+}
+
+tr.borderoff td:nth-child(1) {
+    border: 0;
+}
+
+tr.borderoffb {
+    border: 0 !important;
+}
+tr.borderoffb td {
+    border: 0;
+}
